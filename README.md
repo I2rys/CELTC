@@ -1,5 +1,5 @@
 <h1 align="center">CELTC</h1>
-<h4 align="center">Just a module to convert English letters to chinese</h4>
+<h4 align="center">Just a module to convert English letters to Chinese</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/CELTC/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/CELTC?style=flat-square"></img></a>
 	<a href="https://github.com/I2rys/CELTC/issues"><img src="https://img.shields.io/github/issues/I2rys/CELTC.svg"></img></a>
